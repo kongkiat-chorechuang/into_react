@@ -5,7 +5,7 @@ class Content extends Component{
   
       return(
           <div>
-              <h1>Course React : {this.props.username}</h1>
+              <h1>Coursed React : {this.props.username}</h1>
           </div>
       );
     }
