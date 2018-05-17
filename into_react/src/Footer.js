@@ -5,7 +5,7 @@ class Footer extends Component{
   
       return(
           <div>
-              <h3>CopyRingt 2017</h3>
+              <h3>CopyRingt 2018</h3>
           </div>
       );
     }
